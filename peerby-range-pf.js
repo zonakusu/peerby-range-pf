@@ -21,7 +21,7 @@
          * Forces use of polyfill instead of HTML5 input range
          * For dev purposes
          */
-        forcePoly: true,
+        forcePoly: false,
 
         /**
          * Container for elements
